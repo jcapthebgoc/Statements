@@ -1,0 +1,30 @@
+
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Signed 515A for Unlisted Drivers' WHERE TaskDisplay = 'Verified - 515A Driver Exclusion';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Acceptable Driver' WHERE TaskDisplay = 'Verified - Acceptable Driver';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Acceptable Vehicle' WHERE TaskDisplay = 'Verified - Acceptable Vehicle';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Active Drivers License' WHERE TaskDisplay = 'Verified - Active Drivers License';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Agent Signature' WHERE TaskDisplay = 'Verified - Agent Signature';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Applicant Occupation' WHERE TaskDisplay = 'Verified - Applicant Occupation';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Application Received' WHERE TaskDisplay = 'Verified - Application Received';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'By Phone Proof Of Prior' WHERE TaskDisplay = 'Verified - By Phone Proof Of Prior';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Copy Of EFT/Voided Check' WHERE TaskDisplay = 'Verified - Copy Of EFT/Voided Check';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Disclosure Of Limitations' WHERE TaskDisplay = 'Verified - Disclosure Of Limitations';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Driving Record' WHERE TaskDisplay = 'Verified - Driving Record';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Evening Phone' WHERE TaskDisplay = 'Verified - Evening Phone';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Foreign Driver' WHERE TaskDisplay = 'Verified - Foreign Driver';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Full Disclosure' WHERE TaskDisplay = 'Verified - Full Disclosure';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Insured Signature' WHERE TaskDisplay = 'Verified - Insured Signature';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Licensed In Texas' WHERE TaskDisplay = 'Verified - Licensed In Texas';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Marital Status' WHERE TaskDisplay = 'Verified - Marital Status';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Valid Phone Number' WHERE TaskDisplay = 'Verified - Mob/Hm Phone';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Signed PIP Rejection' WHERE TaskDisplay = 'Verified - PIP Rejection';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Policy Rollover Proof' WHERE TaskDisplay = 'Verified - Policy Rollover Proof';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Proof Of Agency Transfer' WHERE TaskDisplay = 'Verified - Proof Of Agency Transfer';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Proof Of Homeownership' WHERE TaskDisplay = 'Verified - Proof Of Homeownership';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Proof Of Prior Insurance' WHERE TaskDisplay = 'Verified - Proof Of Prior';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Statement Of Business Use' WHERE TaskDisplay = 'Verified - Statement Of Business Use';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Signed UM Rejection' WHERE TaskDisplay = 'Verified - UM Rejection';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Vehicle Inspection' WHERE TaskDisplay = 'Verified - Vehicle Inspection';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Vehicle Ownership' WHERE TaskDisplay = 'Verified - Vehicle Ownership';
+UPDATE dbo.IW_TaskDefinition SET TaskDisplay = 'Vehicle Photos' WHERE TaskDisplay = 'Verified - Vehicle Photos';
+
